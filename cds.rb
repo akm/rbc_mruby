@@ -1,3 +1,8 @@
+#
+# MIT LICENSE
+#
+# Copyright Takeshi AKIMA, Minoru UCHIDA
+#
 a0 = AnalogIO.new(A0, INPUT)
 d0 = DigitalIO.new(D0, OUTPUT)
 while true

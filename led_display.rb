@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+#
+# MIT LICENSE
+#
+# Copyright Takeshi AKIMA, Minoru UCHIDA
+#
 
 # ややこしいけど、ON(1)にすると消えて、OFF(0)なら光る
 #

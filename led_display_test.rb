@@ -1,3 +1,8 @@
+#
+# MIT LICENSE
+#
+# Copyright Takeshi AKIMA, Minoru UCHIDA
+#
 d1 = DigitalIO.new(D1, OUTPUT)
 while true
   p 1
